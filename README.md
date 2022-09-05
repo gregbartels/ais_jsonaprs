@@ -64,6 +64,6 @@ Your AIS SeCrEtKeY can be found in https://aprs.fi/account/ under "AIS password"
 * $ cd ais_js/
 
 Run in the background
-* $ ./ais_json.py &
+* ./ais_json.py &
 
 
