@@ -1,5 +1,5 @@
 # ais_jsonaprs
-This is a improvement code based on the  github project created by https://github.com/hsiboy/ais_json  the idea is continue the code usage to upload  AIS packages to   APRS.fi website, used for Ham radio amateur operators around the world to track positions via Radiofrequency instead of depends of GPS positioning.
+This is a improvement code based on the  github project created by https://github.com/hsiboy/ais_json  the idea is continue the code usage to upload  AIS packages to   APRS.fi website, used for Ham radio amateur operators around the world to track positions via Radiofrequency instead of depends of GPS positioning.  Include the compatibility for the most recent python libraries on  Sept 2022.
 
 
 # ais_json
