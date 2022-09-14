@@ -59,7 +59,7 @@ Your AIS SeCrEtKeY can be found in https://aprs.fi/account/ under "AIS password"
 
 ## install
 
-* git clone https://github.com/hsiboy/ais_json.git
+* git clone https://github.com/gregbartels/ais_jsonaprs
 * pip install libais
 * pip install termcolor
 * $ cd ais_js/
