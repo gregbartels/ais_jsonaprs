@@ -67,4 +67,5 @@ Your AIS SeCrEtKeY can be found in https://aprs.fi/account/ under "AIS password"
 Run in the background
 * ./ais_json.py &
 
-
+To start the script every time the Pi is rebooted, use crontab -e command and add the next line:
+@reboot sleep 60; python3 /home/pi/Path where the script is installed/ais_json.py &           
