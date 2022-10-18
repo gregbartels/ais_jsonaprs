@@ -69,4 +69,5 @@ Run in the background
 
 ## AutoStart (After reboot or no electric connection)
 To start the script every time the Pi is rebooted, use crontab -e command and add the next line:
-@reboot sleep 60; python3 /home/pi/Path where the script is installed/ais_json.py &           
+
+* @reboot sleep 60; python3 /home/pi/Path where the script is installed/ais_json.py &           
